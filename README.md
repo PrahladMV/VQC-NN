@@ -9,12 +9,6 @@
 - [Features](#features)  
 - [Architecture](#architecture)  
 - [Dependencies](#dependencies)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Notebook Structure](#notebook-structure)  
-- [Results](#results)  
-- [Next Steps](#next-steps)  
-- [Author](#author)  
 
 ---
 
